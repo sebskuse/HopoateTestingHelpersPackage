@@ -14,7 +14,7 @@ let package = Package(
         .library(name: "HopoateTestingHelpersPackage", type: .dynamic, targets: ["HopoateTestingHelpersPackage"])
     ],
     dependencies: [
-        .package(name: "Hopoate", url: "https://github.com/darjeelingsteve/hopoate", from: "1.7.0")
+        .package(name: "Hopoate", url: "https://github.com/darjeelingsteve/hopoate", from: "1.8.0")
     ],
     targets: [
         .target(
