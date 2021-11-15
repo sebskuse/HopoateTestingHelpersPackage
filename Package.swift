@@ -21,8 +21,5 @@ let package = Package(
         .target(
             name: "HopoateTestingHelpersPackage",
             dependencies: []),
-        .testTarget(
-            name: "HopoateTestingHelpersPackageTests",
-            dependencies: ["HopoateTestingHelpersPackage"]),
     ]
 )
