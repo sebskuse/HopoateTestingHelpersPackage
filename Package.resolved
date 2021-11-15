@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Hopoate",
+        "repositoryURL": "https://github.com/darjeelingsteve/hopoate",
+        "state": {
+          "branch": null,
+          "revision": "792410a7ebba54de63cc6fdab56b658ef542eeb4",
+          "version": "1.7.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
