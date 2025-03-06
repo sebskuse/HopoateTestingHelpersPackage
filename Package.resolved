@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Hopoate",
-        "repositoryURL": "https://github.com/darjeelingsteve/hopoate",
+        "repositoryURL": "https://github.com/sebskuse/hopoate",
         "state": {
-          "branch": null,
-          "revision": "3d5cd19c4bb1531fb97c5970445610c900d0abd4",
-          "version": "1.8.0"
+          "branch": "isolated-dependencies",
+          "revision": "389191bbf1de4f8d30b43307fb6de4bfe32d93c5",
+          "version": null
         }
       }
     ]
